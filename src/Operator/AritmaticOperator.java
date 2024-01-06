@@ -15,5 +15,33 @@ public class AritmaticOperator {
         // --
         System.out.println(start + end);
 
+        // Arithmetic assignment operators
+        // =
+        // += a+=b => a = a+b;
+        // -=
+        // *=
+        // /=
+        // %=
+
+        // Relational Operator
+        // ==
+        // !=
+        // >
+        // >=
+        // <
+        // <=
+
+        // Logical operators
+        // &&
+        // ||
+        // !
+
+        // Ternary Operator
+        // if(){
+
+        // }else{
+
+        // }
+
     }
 }
