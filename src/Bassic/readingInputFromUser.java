@@ -1,3 +1,5 @@
+package src.Bassic;
+
 import java.util.Scanner;
 
 public class readingInputFromUser {

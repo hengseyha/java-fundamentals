@@ -1,3 +1,5 @@
+package src.Bassic;
+
 public class typeCasting {
     public static void main(String[] args) {
         int value = 1200;
